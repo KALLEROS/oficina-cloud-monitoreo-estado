@@ -1,0 +1,18 @@
+{
+  "actualizado": "2026-11-13T16:56:58",
+  "agentes": [
+    {
+      "id": "calleros",
+      "nombre": "Calleros",
+      "area": "descanso",
+      "actividad": "Esperando instrucciones",
+      "estado": "esperando",
+      "modo": "normal",
+      "modelo": "opus",
+      "dispositivo": "laptop-windows",
+      "origen": "laptop",
+      "actualizado": "2026-11-13T16:56:58"
+    }
+  ],
+  "archivos_recientes": []
+}
