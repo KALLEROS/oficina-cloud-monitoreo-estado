@@ -1,0 +1,32 @@
+{
+  "actualizado": "2026-11-27T15:14:18",
+  "agentes": [
+    {
+      "id": "ses-78d4021b",
+      "area": "escritorio",
+      "actividad": "Esperando tu permiso",
+      "estado": "esperando",
+      "modo": "normal",
+      "modelo": "opus",
+      "dispositivo": "laptop-windows",
+      "origen": "laptop",
+      "actualizado": "2026-11-27T14:57:26",
+      "casa": "calleros",
+      "nombre": "Sesión 78d4"
+    },
+    {
+      "id": "ses-9b544fb6",
+      "area": "calleros",
+      "actividad": "Esperando instrucciones",
+      "estado": "esperando",
+      "modo": "normal",
+      "modelo": "opus",
+      "dispositivo": "laptop-windows",
+      "origen": "laptop",
+      "actualizado": "2026-11-27T15:14:18",
+      "casa": "calleros",
+      "nombre": "Sesión 9b54"
+    }
+  ],
+  "archivos_recientes": []
+}
